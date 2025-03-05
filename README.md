@@ -1,5 +1,19 @@
 # RIDE
 
+2025.3.5 Under development——Create project page【have bug】
+
+<img src="\my-app\src\1.0-Under development.png" style="zoom: 50%;" />
+
+
+
+Environment configuration：[Environment configuration File](Environment configuration File.\my-app\docs\use.md)
+
+### Hard at work
+
+
+
+## ciallo~
+
 
 
 ## cmd start command
@@ -21,5 +35,16 @@ run py
 
 ```ini
 python start.py
+```
+
+
+
+git push
+
+```ini
+git add .
+git status
+git commit -m ""
+git push -u origin main
 ```
 
