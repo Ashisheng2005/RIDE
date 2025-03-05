@@ -2,11 +2,11 @@
 
 2025.3.5 Under development——Create project page【have bug】
 
-<img src="\my-app\src\1.0-Under development.png" style="zoom: 50%;" />
+<img src="https://github.com/Ashisheng2005/RIDE/blob/main/my-app/src/1.0-Under%20development.png" style="zoom: 50%;" />
 
 
 
-Environment configuration：[Environment configuration File](Environment configuration File.\my-app\docs\use.md)
+Environment configuration：[Environment configuration File](https://github.com/Ashisheng2005/RIDE/blob/main/my-app/docs/use.md)
 
 ### Hard at work
 
