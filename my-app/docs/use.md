@@ -45,7 +45,7 @@ E:\RIDE\my-app>npm run dev
 注意位置推到父路径（文件存在位置）
 
 ```ini
-pip install -r re requirements.txt
+pip install -r requirements.txt
 ```
 
 
